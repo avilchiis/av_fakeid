@@ -1,6 +1,11 @@
 # av_fakeid
 
-Thank you for downloading my resource
+1) Import the SQL
+2) Start the resource on server.cfg
+3) Create your fake ID and use command /fakeid to show it
+
+Dependencies: MySQL
+
 Please feel free to check my other scripts:
 
 https://av-scripts.tebex.io
